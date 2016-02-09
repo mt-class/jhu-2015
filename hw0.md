@@ -28,7 +28,7 @@ Go over at least 20 sentences, manually correct each sentence, and report for ea
 1. the source sentence
 2. the machine translation
 3. a correction of the machine translation
-4. an assessment of the error in the machine translation
+4. an assessment what the error in the machine translation
 
 You may do step 4 in any way you want. For instance, you could classify errors as "reordering errors", "word sense error for a noun", or any other type of error you can think of.
 
@@ -44,7 +44,7 @@ Conclude your report with a summary of your impression of the major quality prob
 What to Hand in
 ===============
 
-Turn in a written report (on paper or by email to adithya.renduchintala@jhu.edu) by the beginning of class on Tuesday, February 16.
+Turn in a written report (on paper or by email to phi@jhu.edu) by the beginning of class on Thursday, February 5.
 
 
 
