@@ -2,7 +2,7 @@ past:
   -
     date: 2015-01-27
     title: Introduction
-    slides: http://mt-class.org/jhu/slides/lecture-introduction.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-introduction.pdf
     reading:
       -
         author: Koehn 
@@ -20,7 +20,7 @@ past:
   -
     date: 2015-01-29
     title: Basics in Language and Probability 
-    slides: http://mt-class.org/jhu/slides/lecture-foundations.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-foundations.pdf
     reading:
       -
         author: Koehn 
@@ -28,7 +28,7 @@ past:
   -
     date: 2015-02-03
     title: Language Models
-    slides: http://mt-class.org/jhu/slides/lecture-lm.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-lm.pdf
     reading: 
       -
         author: Koehn 
@@ -36,7 +36,7 @@ past:
   -
     date: 2015-02-05
     title: IBM Model 1 and the EM Algorithm
-    slides: http://mt-class.org/jhu/slides/lecture-ibm-model1.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-ibm-model1.pdf
     reading:
       -
         author: Koehn 
@@ -52,7 +52,7 @@ past:
   -
     date: 2015-02-12
     title: Advanced Alignment Models
-    slides: http://mt-class.org/jhu/slides/lecture-advanced-alignment-models.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-advanced-alignment-models.pdf
     reading:
       -
         author: Koehn 
@@ -70,7 +70,7 @@ past:
   -
     date: 2015-02-17
     title: Phrase-Based Models
-    slides: http://mt-class.org/jhu/slides/lecture-phrase-based-models.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-phrase-based-models.pdf
     reading:
       -
         author: Koehn 
@@ -83,7 +83,7 @@ past:
   -
     date: 2015-02-19
     title: Decoding
-    slides: http://mt-class.org/jhu/slides/lecture-decoding.pdfS
+    slides: http://mt-class.org/jhu-2015/slides/lecture-decoding.pdfS
     links:
       -
         text: (Demo)
@@ -100,7 +100,7 @@ past:
   -
     date: 2015-02-24
     title: Evaluation
-    slides: http://mt-class.org/jhu/slides/lecture-evaluation.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-evaluation.pdf
     reading:
       -
         author: Koehn 
@@ -113,7 +113,7 @@ past:
   -
     date: 2015-02-26
     title: Tuning
-    slides: http://mt-class.org/jhu/slides/lecture-tuning.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-tuning.pdf
     reading:
       -
         author: Koehn 
@@ -121,7 +121,7 @@ past:
   - 
     date: 2015-03-03
     title: Sparse Features
-    slides: http://mt-class.org/jhu/slides/lecture-sparse-features.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-sparse-features.pdf
     reading:
       -
         author: Koehn 
@@ -157,7 +157,7 @@ past:
   -
     date: 2015-03-10
     title: Reordering
-    slides: http://mt-class.org/jhu/slides/lecture-reordering.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-reordering.pdf
     reading:
       -
         author: Koehn 
@@ -175,11 +175,11 @@ past:
   -
     date: 2015-03-12
     title: Introduction to Moses
-    slides: http://mt-class.org/jhu/slides/lecture-moses.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-moses.pdf
   -
     date: 2015-03-24
     title: Corpus Acquisition from the Internet
-    slides: http://mt-class.org/jhu/slides/lecture-crawling.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-crawling.pdf
     reading:
     -
         author: Guest lecture
@@ -187,7 +187,7 @@ past:
   -
     date: 2015-03-26
     title: Morphology
-    slides: http://mt-class.org/jhu/slides/lecture-morphology.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-morphology.pdf
     reading:
       -
         author: Koehn 
@@ -210,7 +210,7 @@ past:
   -
     date: 2015-03-31
     title: Syntax-Based Models
-    slides: http://mt-class.org/jhu/slides/lecture-syntax-based-models.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-syntax-based-models.pdf
     reading:
       -
         author: Koehn 
@@ -218,7 +218,7 @@ past:
   -
     date: 2015-04-02
     title: Syntax-Based Decoding I
-    slides: http://mt-class.org/jhu/slides/lecture-syntax-based-decoding.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-syntax-based-decoding.pdf
     reading:
       -
         author: Koehn 
@@ -226,7 +226,7 @@ past:
   -
     date: 2015-04-07
     title: Syntax-Based Decoding II
-    slides: http://mt-class.org/jhu/slides/lecture-syntax-based-decoding2.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-syntax-based-decoding2.pdf
     reading:
       -
         author: Koehn 
@@ -244,7 +244,7 @@ past:
   -
     date: 2015-04-09
     title: Semantics
-    slides: http://mt-class.org/jhu/slides/lecture-semantics.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-semantics.pdf
     reading:
       -
         author: Cook et al. (2011)
@@ -259,12 +259,12 @@ past:
   -
     date: 2015-04-14
     title: Introduction to Neural Networks
-    slides: http://mt-class.org/jhu/slides/lecture-nn-intro.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-nn-intro.pdf
     reading:
       -
         author: Koehn (2014)
         title: Neural Network Handout
-        url: http://www.statmt.org/jhu/pub/img/neural-network-handout.pdf
+        url: http://www.statmt.org/jhu-2015/pub/img/neural-network-handout.pdf
       -
         author: Makin (2006)
         title: Backpropagation
@@ -272,7 +272,7 @@ past:
   -
     date: 2015-04-16
     title: Neural Language Models
-    slides: http://mt-class.org/jhu/slides/lecture-nn-lm.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-nn-lm.pdf
     reading:
       -
         author: Bengio et al. (2002)
@@ -309,7 +309,7 @@ past:
   -
     date: 2015-04-23
     title: Neural Components and Neural Translation
-    slides: http://mt-class.org/jhu/slides/lecture-nn4.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-nn4.pdf
     reading:
       -
         author: Sennrich (2015)
@@ -327,7 +327,7 @@ past:
   -
     date: 2015-04-30
     title: Computer Aided Translation
-    slides: http://mt-class.org/jhu/slides/lecture-computer-aided-translation.pdf
+    slides: http://mt-class.org/jhu-2015/slides/lecture-computer-aided-translation.pdf
     reading:
       -
         author: Barrachina et al. (2009)
